@@ -1,0 +1,26 @@
+body {
+	width: 960px;
+	margin: 0 auto;
+	padding-bottom: 5%;
+}
+
+.sunset {
+	max-width: 100%;
+}
+
+/* Add a media query to change the background to color to yellow when the width is more than 480px*/
+
+
+
+/* Add a media query to change the line-height of the paragraph to 180% when width is more than 768px. Also, change the font size to 1.2em */
+
+
+/* Add a media query to make the headline 5em when the width is more than 992px */
+
+
+
+/* Add a media query to change the background color to orange and the text to white, when the width is more than 1200px */
+
+
+
+/* Add a media query to remove the image and make the text red when the user hits print in their browser */
